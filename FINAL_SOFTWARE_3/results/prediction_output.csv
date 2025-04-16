@@ -1,0 +1,2 @@
+temperature,speed,layer_height,infill_density,material,infill_pattern,Roughness,Elongation,Tensile Strength
+220.0,50.0,0.2,30.0,PLA,grid,-2350.435029662946,216.03365983599082,24.69456409783812
